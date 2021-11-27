@@ -49,5 +49,5 @@ public class Individuals {
         for (int j=0; j<newInd.length; j++){
             System.out.println(newInd[j]);
         }
-    }
+    } //ardilla
 }

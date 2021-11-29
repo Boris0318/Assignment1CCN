@@ -38,5 +38,9 @@ public class Individual {
 		}
 		return new Individual(chromClone);
 	}
+	@Override
+    public String toString() {
+        return new String(this.chromosome);
+    }
 
 }
